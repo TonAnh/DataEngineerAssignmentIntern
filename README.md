@@ -1,5 +1,5 @@
-# DataEngineerAssignmentIntern
-
+# Data Engineer Assignment Intern
+Full name: Ton Thien Minh Anh
 ## Introduction
 This repository contain my solutions for the Data Engineer Assignment Intern of PrimeData
 
